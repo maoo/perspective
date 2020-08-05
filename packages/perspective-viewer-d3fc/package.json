@@ -56,7 +56,7 @@
         "core-js": "^3.6.4",
         "d3": "^5.7.0",
         "d3-svg-legend": "^2.25.6",
-        "d3fc": "14.0.40",
+        "d3fc": "14.2.6",
         "gradient-parser": "0.1.5"
     },
     "devDependencies": {
