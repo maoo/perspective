@@ -48,7 +48,7 @@
         "core-js": "^3.6.4",
         "detectie": "1.0.0",
         "gradient-parser": "0.1.5",
-        "highcharts-grouped-categories": "1.1.2"
+        "highcharts-grouped-categories": "1.1.6"
     },
     "devDependencies": {
         "@finos/perspective-test": "^0.5.2",
